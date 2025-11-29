@@ -127,6 +127,17 @@ Includes:
 - Theming options and tablet/landscape layouts
 - Migrate to DI (Hilt/Koin) and multi-module structure
 
+## Demo
+
+![Real-Time Price Tracker Demo](RealTrackerApp.gif)
+
+The demo showcases the app's key features:
+- Real-time price updates with smooth animations
+- Connection status indicator
+- Toggle button to start/stop price updates
+- Price change indicators (green for increase, red for decrease)
+- Dark and light theme support
+
 ## License and Contact
 - License: MIT (or your preferred license)
 - Contact: Fahad Iqbal - fahad.iqbal88@gmail.com
