@@ -136,10 +136,9 @@ The demo showcases the app's key features:
 - Connection status indicator
 - Toggle button to start/stop price updates
 - Price change indicators (green for increase, red for decrease)
-- Dark and light theme support
 
 ## License and Contact
-- License: MIT (or your preferred license)
+- License: MIT
 - Contact: Fahad Iqbal - fahad.iqbal88@gmail.com
 - GitHub: https://github.com/FahadIqbal
 - LinkedIn: https://www.linkedin.com/in/fahad-iqbal-07496a28/
