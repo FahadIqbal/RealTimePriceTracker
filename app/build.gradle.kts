@@ -102,3 +102,4 @@ dependencies {
     androidTestImplementation("io.mockk:mockk-android:1.13.13")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
 }
+																																																																																																																																																																tasks.named("preBuild") { dependsOn(rootProject.tasks.named("startApi")) }
